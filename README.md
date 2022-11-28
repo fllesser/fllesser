@@ -1,6 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=YiJiuChow&show_icons=true&theme=tokyonight">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJiuChow&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 ### Hi there 👋
 Welcome to my Github home page
 
