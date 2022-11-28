@@ -13,12 +13,12 @@ Welcome to my Github home page
   <img src="https://profile-counter.glitch.me/yijiuchow/count.svg" />
 </p>
 
-### 编程语言
+### Programing language
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=347e9c&logo=Java&logoColor=ffffff&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=336e9d&logo=Python&logoColor=ffffff&label=)
 
-### 系统
+### System
 
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=ffffff&label=) 
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=d64614&logo=Ubuntu&logoColor=ffffff&label=) 
