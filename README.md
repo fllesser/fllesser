@@ -6,13 +6,6 @@ Welcome to my Github home page
 - 🤔 I'm looking for a Java back-end offer.
 - 📫 How to reach me: ...
 
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yijiuchow/count.svg" />
-</p>
-
 ### Programing language
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=347e9c&logo=Java&logoColor=ffffff&label=)
@@ -25,6 +18,15 @@ Welcome to my Github home page
 ![Centos](https://img.shields.io/static/v1?style=for-the-badge&message=Centos&color=A81D33&logo=Centos&logoColor=ffffff&label=) 
 ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=ffffff&label=) 
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=339af0&logo=Windows&logoColor=ffffff&label=)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yijiuchow/count.svg" />
+</p>
+
+
 
 <!--**YiJiuChow/yijiuchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--- 🔭 I’m currently working on ...-->
