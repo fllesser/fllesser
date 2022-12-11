@@ -4,7 +4,7 @@ Welcome to my Github home page
 - 🔭 I'm a transcoder aha.
 - 🌱 I’m currently learning Java, Python
 - 🤔 I'm looking for a Java back-end offer.
-- 📫 How to reach me: [blog](chowyijiu.tech)
+- 📫 How to reach me: [blog](https://chowyijiu.tech)
 
 ### Programing language
 
