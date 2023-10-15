@@ -14,7 +14,7 @@ Welcome to my Github home page
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=Javascript&color=336e9d&logo=JavaScript&logoColor=ffffff&label=)
 ![Typescript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=336e9d&logo=Typescript&logoColor=ffffff&label=)
 
-### System
+### Operating System
 
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=ffffff&label=) 
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=d64614&logo=Ubuntu&logoColor=ffffff&label=) 
