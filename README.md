@@ -10,7 +10,7 @@ Welcome to my Github home page
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=336e9d&logo=Java&logoColor=ffffff&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=336e9d&logo=Python&logoColor=ffffff&label=)
-![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=336e9d&logo=Golang&logoColor=ffffff&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Golang&color=336e9d&logo=Go&logoColor=ffffff&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=Javascript&color=336e9d&logo=JavaScript&logoColor=ffffff&label=)
 ![Typescript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=336e9d&logo=Typescript&logoColor=ffffff&label=)
 
