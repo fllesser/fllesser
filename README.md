@@ -2,7 +2,7 @@
 Welcome to my Github home page
 
 - 🔭 I'm a transcoder aha.
-- 🌱 I’m currently learning Java, Golang, Python, TypeScript
+- 🌱 I’m currently learning Java, CSharp, Golang, Python, TypeScript
 - 🤔 I‘am searching for the meaning of life
 - 📫 How to reach me: [blog](https://chowyijiu.tech)
 
