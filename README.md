@@ -27,11 +27,6 @@ Welcome to my Github home page
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yijiuchow/count.svg" />
+  <img src="https://profile-counter.glitch.me/flleser/count.svg" />
 </p>
 
-
-
-<!--**YiJiuChow/yijiuchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<!--- 🔭 I’m currently working on ...-->
-<!--- 👯 I’m looking to collaborate on ...  - 💬 Ask me about ...  - 😄 Pronouns: ...  - ⚡ Fun fact: ...-->
