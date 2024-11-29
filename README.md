@@ -1,4 +1,4 @@
-## Hi there, I'm FLLess!
+## Hi there, I'm Les Freire!
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
