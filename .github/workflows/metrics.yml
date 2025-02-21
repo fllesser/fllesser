@@ -51,7 +51,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_repositories: yes
-          plugin_repositories_featured: ArcletProject/Alconna
+          # plugin_repositories_featured: 
           plugin_repositories_order: featured, pinned, starred, random
   github-metrics-right-part:
       runs-on: ubuntu-latest
