@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
-  github-metrics-right-part:
+  github-metrics-left-part:
     runs-on: ubuntu-latest
     permissions:
       contents: write
