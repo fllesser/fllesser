@@ -28,7 +28,7 @@ jobs:
           filename: right.svg
           user: fllesser
           template: classic
-          base: header
+          base: 
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
