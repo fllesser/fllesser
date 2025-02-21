@@ -3,14 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
 
 
-<p align="center">
-  <br/>
-  <img align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=transparent&show_icons=true&hide_border=true" />
-  &emsp;
+<div style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=transparent&show_icons=true&hide_border=true" />
   <a href="https://github.com/fllesser">
-    <img align="top" width="400" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
+    <img width="400" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
   </a>
-</p>
+</div>
 
 
 
