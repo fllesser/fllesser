@@ -4,7 +4,7 @@
 </p>
 
 
-📊 **Weekly development breakdown**
+📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 
 ```rust
@@ -23,7 +23,7 @@ Other        14 mins         -------------------------   00.15 %
 <!--END_SECTION:waka-->
 
  
-🌟 **Statistic**
+🌟 **Statistic Graph**
 
 <p align="center">
   
