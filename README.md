@@ -12,9 +12,9 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=fllesser&theme=github-compact&hide_border=true&area=true" />
 <br/>
-<!-- https://github.com/tandpfun/skill-icons -->
+<!-- https://github.com/tandpfun/skill-icons
 <img align="center" src="https://skillicons.dev/icons?i=py,rust,go,cs,html,css,js,ts,md&th, me=light" />
-</p>
+</p> -->
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
@@ -34,4 +34,16 @@ Other        14 mins         -------------------------   00.15 %
 
 <!--END_SECTION:waka-->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+🛠 **Statistic**
+
+<p align="center">
+  
+  <br/>
+  <a href="https://github.com/fllesser">
+    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/fllesser">
+    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
+  </a>
+</p>
