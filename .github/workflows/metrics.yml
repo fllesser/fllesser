@@ -52,7 +52,7 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           #plugin_isocalendar_duration: full-year
-          
+
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
@@ -69,14 +69,14 @@ jobs:
           SHOW_TITLE: false # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          CODE_LANG: ruby # optional
+          CODE_LANG: typescript # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
           #STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: TXT # optional
+          IGNORED_LANGUAGES: # optional
           ### commit
           COMMIT_MESSAGE: 🌈 Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
