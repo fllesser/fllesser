@@ -13,5 +13,5 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=fllesser&theme=github-compact&hide_border=true&area=true" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,rust,go,java,cs,html,css,js,ts,md&th, me=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,rust,go,cs,html,css,js,ts,md&th, me=light" />
 </p>
