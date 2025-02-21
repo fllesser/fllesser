@@ -1,7 +1,18 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
+
+
+<p align="center">
+  <br/>
+  <img align="top" width="400" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=transparent&show_icons=true&hide_border=true" />
+  &emsp;
+  <a href="https://github.com/fllesser">
+    <img align="top" width="400" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
+  </a>
 </p>
+
+
 
 
 📊 **Weekly Development Breakdown**
@@ -23,11 +34,10 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
- 
+<!--  
 🌟 **Statistic Graph**
 
 <p align="center">
-  
   <br/>
   <a href="https://github.com/fllesser">
     <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
@@ -36,4 +46,4 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <a href="https://github.com/fllesser">
     <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
   </a>
-</p>
+</p> -->
