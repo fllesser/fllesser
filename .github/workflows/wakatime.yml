@@ -27,10 +27,10 @@ jobs:
           SHOW_TITLE: false # optional
           SECTION_NAME: waka # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: rust # optional
+          CODE_LANG: json # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
-          SHOW_TIME: false # optional
+          SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
           #STOP_AT_OTHER: true # optional
