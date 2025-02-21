@@ -4,7 +4,7 @@
 
 
 
-🌟 **Statistic Graph**
+🌟 **Statistic**
 
 <p align="center">
   <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
@@ -12,7 +12,7 @@
 </p>
 
 
-📊 **Weekly Development Breakdown**
+📊 **Wakatime**
 <!--START_SECTION:waka-->
 
 ```rust
