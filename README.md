@@ -7,12 +7,8 @@
 🌟 **Statistic Graph**
 
 <p align="center">
-  <a href="https://github.com/fllesser">
-    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
-  </a>
-  <a href="https://github.com/fllesser">
-    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
-  </a>
+  <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
+  <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
 </p>
 
 
