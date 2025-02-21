@@ -4,6 +4,20 @@
 
 
 
+🌟 **Statistic Graph**
+
+<p align="center">
+  <br/>
+  <a href="https://github.com/fllesser">
+    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
+  </a>
+  &emsp;
+  <a href="https://github.com/fllesser">
+    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
+  </a>
+</p>
+
+
 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 
@@ -23,16 +37,3 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
- 
-🌟 **Statistic Graph**
-
-<p align="center">
-  <br/>
-  <a href="https://github.com/fllesser">
-    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
-  </a>
-  &emsp;
-  <a href="https://github.com/fllesser">
-    <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
-  </a>
-</p>
