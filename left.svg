@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -66,19 +66,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 19.7mb of code in 1669 edited files across 656 commits</small>
+                <small>estimation from 19.7mb of code in 1672 edited files across 657 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.86895475819034" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="403.86895475819034" y="0" width="22.700172871779735" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="426.56912762997" y="0" width="15.251507357591601" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="441.8206349875616" y="0" width="10.690222203482733" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="452.51085719104435" y="0" width="7.172070666610448" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="459.6829278576548" y="0" width="0.30526626470464224" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.9881941223594" y="0" width="0.011805877640511026" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.9359654888921" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.9359654888921" y="0" width="22.673072803276796" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="426.6090382921689" y="0" width="15.233299703557496" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="441.8423379957264" y="0" width="10.677459932655001" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="452.51979792838137" y="0" width="7.163508458407414" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="459.6833063867888" y="0" width="0.30490182974056246" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.98820821652936" y="0" width="0.011791783470629489" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
