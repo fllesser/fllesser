@@ -11,7 +11,7 @@
 </p>
 
 
-📊 **Wakatime** -->
+📊 **Wakatime**
 
 <!--START_SECTION:waka-->
 
