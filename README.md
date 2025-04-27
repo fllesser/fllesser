@@ -15,14 +15,14 @@
 
 <!--START_SECTION:waka-->
 
-<!-- ```ruby
+```ruby
 Rust          196 hrs 33 mins ███████████▒░░░░░░░░░░░░░   44.78 %
 Python        154 hrs 14 mins ████████▓░░░░░░░░░░░░░░░░   35.14 %
 Markdown      12 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 Other         3 hrs 21 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Bash          2 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 Git Config    1 hr 6 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-``` -->
+```
 
 <!--END_SECTION:waka-->
 
