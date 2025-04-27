@@ -7,7 +7,8 @@
 🌟 **Statistic**
 
 <p align="center">
-  <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
+  <!-- <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fllesser&show_icons=true&theme=tokyonight" width=400>
   <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
 </p>
 
