@@ -11,10 +11,8 @@
   <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
 </p>
 
-
-📊 **Wakatime**
-
-<img src="https://github-readme-stats.vercel.app/api?username=fllesser&show_icons=true&theme=tokyonight" width=800>
+<!-- 
+📊 **Wakatime** -->
 
 <!--START_SECTION:waka-->
 
