@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -43,7 +43,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -57,10 +57,9 @@ jobs:
           #plugin_isocalendar_duration: full-year
 
           plugin_achievements: yes
-          plugin_achievements_only: >-
-            stargazer, member, maintainer, developer, explorer
+          plugin_achievements_only: stargazer, member, maintainer, developer, explorer
           plugin_achievements_display: compact
-          # plugin_achievements_threshold: X
+          plugin_achievements_threshold: X
 
   # update-readme:
   #   name: Update Readme with Metrics
