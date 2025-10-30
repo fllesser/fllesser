@@ -80,12 +80,12 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: python # optional
           TIME_RANGE: all_time # optional
-          # LANG_COUNT: 6 # optional
+          LANG_COUNT: 6 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
-          #STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML TOML JSON Text # optional
+          # STOP_AT_OTHER: true # optional
+          # IGNORED_LANGUAGES: YAML TOML JSON Text # optional
           ### commit
           COMMIT_MESSAGE: 🌈 Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
