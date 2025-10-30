@@ -14,16 +14,18 @@
 
   <div align="left" style="display: inline-block;">
     <!--START_SECTION:waka-->
-    ```ruby
-    Python         402 hrs 9 mins  ██████████░░░░░░░░░░░░░░░   40.64 %
-    Rust           341 hrs 7 mins  ████████▓░░░░░░░░░░░░░░░░   34.47 %
-    Markdown       38 hrs 53 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-    Other          14 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-    Docker         11 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-    Bash           3 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-    Git Config     2 hrs 33 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-    ```
-    <!--END_SECTION:waka-->
+
+```ruby
+Python         402 hrs 9 mins  ██████████░░░░░░░░░░░░░░░   40.64 %
+Rust           341 hrs 7 mins  ████████▓░░░░░░░░░░░░░░░░   34.47 %
+Markdown       38 hrs 53 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Other          14 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Docker         11 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Bash           3 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Git Config     2 hrs 33 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+```
+
+<!--END_SECTION:waka-->
   </div>
 
   <img width="400" align="top" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=default&show_icons=true&hide_border=true&count_private=true" />
