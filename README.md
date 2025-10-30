@@ -15,6 +15,12 @@
 <table>
 <tr>
 <td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+
+</td>
+<td>
+
 <!--START_SECTION:waka-->
 
 ```ruby
@@ -28,10 +34,6 @@ Git Config     2 hrs 33 mins   ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 
 </td>
 </tr>
