@@ -80,7 +80,7 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: go # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          # LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
@@ -92,4 +92,5 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
+          STOP_AT_OTHER: true # optional
 
