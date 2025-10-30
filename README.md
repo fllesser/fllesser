@@ -12,15 +12,11 @@
 
 
 
-<table width="100%">
-<colgroup>
-<col width="40%" />
-<col width="60%" />
-</colgroup>
+<table></table>
 <tr>
-<td>
+<td width="400">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 
 </td>
 <td>
