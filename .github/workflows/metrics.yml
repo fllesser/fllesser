@@ -78,7 +78,7 @@ jobs:
           SHOW_TITLE: false # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          CODE_LANG: python # optional
+          CODE_LANG: json # optional
           TIME_RANGE: all_time # optional
           # LANG_COUNT: 6 # optional
           SHOW_TIME: true # optional
