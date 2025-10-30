@@ -6,20 +6,11 @@
 🌟 **Statistic**
 
 <p align="center">
-  <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" />
+  <!-- <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/left.svg" /> -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
 </p>
 
-
-
-<table></table>
-<tr>
-<td width="400">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-
-</td>
-<td>
 
 <!--START_SECTION:waka-->
 
@@ -32,8 +23,3 @@ Markdown       38 hrs 53 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-</td>
-</tr>
-</table>
-
