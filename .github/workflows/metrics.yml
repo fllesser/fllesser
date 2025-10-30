@@ -80,7 +80,7 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           CODE_LANG: python # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 6 # optional
+          # LANG_COUNT: 6 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
           SHOW_MASKED_TIME: false # optional
