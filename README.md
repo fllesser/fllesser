@@ -12,6 +12,8 @@
 </p>
 
 
+📊 **Wakatime**
+
 <!--START_SECTION:waka-->
 
 ```go
