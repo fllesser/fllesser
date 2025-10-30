@@ -23,11 +23,10 @@
 
 <!--START_SECTION:waka-->
 
-```go
+```python
 Python         402 hrs 9 mins  ██████████░░░░░░░░░░░░░░░   40.64 %
 Rust           341 hrs 7 mins  ████████▓░░░░░░░░░░░░░░░░   34.47 %
 Markdown       38 hrs 53 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Other          14 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
