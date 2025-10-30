@@ -10,11 +10,12 @@
   <img width="400" align="top" src="https://github.com/fllesser/fllesser/blob/main/right.svg" />
 </p>
 
-<p align="center">
 
-  <div align="left" style="display: inline-block;">
-    <!--START_SECTION:waka-->
 
+<table>
+<tr>
+<td>
+<!--START_SECTION:waka-->
 ```ruby
 Python         402 hrs 9 mins  ██████████░░░░░░░░░░░░░░░   40.64 %
 Rust           341 hrs 7 mins  ████████▓░░░░░░░░░░░░░░░░   34.47 %
@@ -24,9 +25,13 @@ Docker         11 hrs 19 mins  ▒░░░░░░░░░░░░░░░�
 Bash           3 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Git Config     2 hrs 33 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
-
 <!--END_SECTION:waka-->
-  </div>
+</td>
+<td>
 
-  <img width="400" align="top" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=default&show_icons=true&hide_border=true&count_private=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=default&show_icons=true&hide_border=true&count_private=true" />
+
+</td>
+</tr>
+</table>
+
