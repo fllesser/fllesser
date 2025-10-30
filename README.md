@@ -12,9 +12,13 @@
 
 
 
-<table>
+<table width="100%">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
 <tr>
-<td style="width: 400px;">
+<td>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 
