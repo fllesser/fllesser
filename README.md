@@ -14,12 +14,12 @@
 
 <table>
 <tr>
-<td>
+<td width="40%">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=fllesser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 
 </td>
-<td>
+<td width="60%">
 
 <!--START_SECTION:waka-->
 
